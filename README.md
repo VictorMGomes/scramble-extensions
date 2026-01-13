@@ -14,6 +14,10 @@ To automatically add an Authorization header for authenticated routes
 
 To automatically add a Tenant header for Tenant routes
 
+#### SpatieData
+
+Add support to generate schema of DTOs from Spatie Data package
+
 ### Installation
 
 ```bash
