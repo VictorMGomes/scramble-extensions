@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Victormgomes\Scramble\Extensions;
+namespace Victormgomes\ScrambleExtensions\Extensions;
 
 use Dedoc\Scramble\Extensions\TypeToSchemaExtension;
 use Dedoc\Scramble\Support\Generator\Types as OpenApiTypes;

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Victormgomes\Scramble\Extensions;
+namespace Victormgomes\ScrambleExtensions\Extensions;
 
 use Dedoc\Scramble\Extensions\OperationExtension;
 use Dedoc\Scramble\Support\Generator\Operation;
