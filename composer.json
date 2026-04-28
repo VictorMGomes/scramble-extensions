@@ -1,7 +1,7 @@
 {
     "name": "victormgomes/scramble-extensions",
-    "description": "Useful magic extensions for scramble",
-    "version": "0.1.6",
+    "description": "Useful extensions for the dedoc/scramble package",
+    "version": "0.1.7",
     "keywords": [
         "Victor M. Gomes",
         "laravel",
@@ -9,6 +9,16 @@
     ],
     "homepage": "https://github.com/victormgomes/scramble-extensions",
     "license": "MIT",
+    "support": {
+        "issues": "https://github.com/victormgomes/scramble-extensions/issues",
+        "source": "https://github.com/victormgomes/scramble-extensions"
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/VictorMGomes"
+        }
+    ],
     "authors": [
         {
             "name": "Victor M. Gomes",
