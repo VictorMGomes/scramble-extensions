@@ -1,7 +1,7 @@
 {
     "name": "victormgomes/scramble-extensions",
     "description": "Useful extensions for the dedoc/scramble package",
-    "version": "0.1.7",
+    "version": "1.0.0",
     "keywords": [
         "Victor M. Gomes",
         "laravel",
